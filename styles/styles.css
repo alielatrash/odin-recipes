@@ -1,0 +1,48 @@
+* {
+    font-family: "Tahoma";
+    background-color: rgb(243, 243, 243);
+}
+
+h1 {
+    letter-spacing: 2px;
+}
+
+p {
+    color:rgb(72, 72, 72);
+    font-size: 13px;
+}
+
+.main {
+    font-size: 10px;
+    font-weight: 400;
+    color: blue;
+}
+
+img {
+    height: 200px;
+    width: auto;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+.intro {
+    color:rgb(93, 93, 93);
+}
+
+ul li {
+    font-size: 12px;
+}
+
+ol li {
+    font-size: 12px;
+}
+
+dl dt{
+    font-size: 12px;
+}
+
+dd {
+    font-size: 11px;
+}
